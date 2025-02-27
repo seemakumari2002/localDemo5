@@ -1,4 +1,4 @@
 aaaa1
-bbbb2
+bbbb
 line3
 dddd4
