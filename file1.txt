@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 aaaa1
 line2
+=======
+line1
+bbbb2
+>>>>>>> Bug1
 line3
 line4
